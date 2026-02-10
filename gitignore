@@ -1,0 +1,36 @@
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Compiled output / build folders
+bin/
+out/
+target/
+build/
+dist/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDEs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
